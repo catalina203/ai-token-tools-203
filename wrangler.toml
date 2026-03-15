@@ -1,0 +1,11 @@
+name = "ai-token-tools-203"
+main = "index.js"
+compatibility_date = "2024-07-01"
+
+[pages]
+directory = "dist"
+build_command = "npm run build"
+
+[build]
+command = "npm run build"
+publish = "dist"
